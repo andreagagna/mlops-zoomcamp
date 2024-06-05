@@ -1,4 +1,4 @@
-mlflow
+ml flow
 jupyter
 scikit-learn
 pandas
